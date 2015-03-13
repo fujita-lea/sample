@@ -1,0 +1,15 @@
+{
+    "name": "fujita/app",
+    "authors": [
+        {
+            "name": "fujita",
+            "email": "hung.fujita@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "3.7.*"
+    },
+    "config":{
+        "vendor-dir": "Vendor"
+    }
+}
